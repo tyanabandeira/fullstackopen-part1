@@ -1,8 +1,12 @@
 
+
+
+
 const App = () => {
-  return (
+  return(
     <div>
-      <p>Hello world</p>
+      <h1>Greetings</h1>
+      <Hello />
     </div>
   )
 }
